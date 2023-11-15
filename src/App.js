@@ -1,7 +1,7 @@
 import "./App.css";
 import Confetti from "./Confetti";
 
-const shareMessage = "WOW";
+const shareMessage = "hello";
 const shareLink = "https://docker.com/";
 
 const App = () => {
